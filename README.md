@@ -1,1 +1,1 @@
-# .github
+# TENORS Training Material and Data
